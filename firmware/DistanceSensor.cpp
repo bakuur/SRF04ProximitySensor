@@ -1,4 +1,4 @@
-#include <DistanceSensor.h>
+#include "DistanceSensor.h"
 
 /// isCloser: check whether the distance to the detected object is smaller than a given threshold
 bool DistanceSensor::isCloser(int threshold)
