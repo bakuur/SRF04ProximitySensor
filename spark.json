@@ -1,0 +1,7 @@
+{
+  "name": "DistanceSRF04",
+  "author": "Baker Al-Nakib",
+  "license": "GNU GENERAL PUBLIC LICENSE",
+  "version": "0.0.1",
+  "description": "Port of library for SRF04 ultrasonic Sensor That works with Spark's Photon"
+}
